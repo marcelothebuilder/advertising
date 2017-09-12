@@ -1,0 +1,48 @@
+[default1:default2:default3]
+MAIS UMA PROMOÇÃO!
+KKs Asgard por 0,93 cada, independente da quantidade.
+Amanhã o preço ao normal! Aproveite!
+Compre parcelado no cartão (18x), depósito ou transferência!
+Responda "sim" ou "contato" para falar comigo. "preços" para valores.
+> Não quer mais receber PMs? Responda "stopspam".
+== revok.com.br | openkore.com.br
+
+[sim:ok:mais]
+Na minha página você pode entender quem eu sou e porque deveria confiar.
+Acesse http://revok.com.br e entre em contato !
+Digite "contato" para falar comigo.
+> Não quer mais receber PMs? Responda "stopspam".
+= revok.com.br | openkore.com.br
+
+[precos:preco:quanto]
+Meus preços são:
+* a R$ 0,93 (+R$0,40 e +6,4% no cartão) no Asgard e
+* a R$ 0,28 (+R$0,40 e +6,4% no cartão) no Thor.
+* Em breve no Odin!
+Digite "contato" para falar comigo.
+Acesse http://revok.com.br e entre em contato !
+> Não quer mais receber PMs? Responda "stopspam".
+== revok.com.br | openkore.com.br
+
+[contato]
+* Skype: revokstardust (Preferencial)
+* Hangouts/GTalk: revok.ragnarok@gmail.com (Preferencial)
+* E-mail: revok.ragnarok@gmail.com
+* Facebook: http://www.fb.me/revokstardust
+* Ou acesse: http://revok.com.br/contato
+> Não quer mais receber PMs? Responda "stopspam".
+== revok.com.br | openkore.com.br
+
+[stopspam]
+Respeito suas decisões !
+Você não vai mais receber mensagens minhas até a próxima manutenção.
+Caso mude de idéia, acesse http://revok.com.br e entre em contato !
+%optout
+== revok.com.br | openkore.com.br
+
+[invalid]
+Você escolheu uma opção inválida!
+Por favor note que este personagem é um robô de propaganda.
+Se você quer falar diretamente comigo, digite "contato".
+Não quer mais receber PMs? Responda "stopspam".
+== revok.com.br | openkore.com.br
